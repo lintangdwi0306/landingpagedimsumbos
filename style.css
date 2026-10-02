@@ -1,13 +1,13 @@
 :root{
-    --bg:#FFF4F7;
-    --bg2:#FFE6EF;
-    --pink:#FF4F8B;
-    --pink-deep:#E8397A;
-    --peach:#FFB199;
-    --plum:#5B2A42;
-    --muted:#9C7688;
-    --line:#F6D6E2;
-    --gold:#FFC857;
+    --bg:#FFFDF8;
+    --bg2:#F1EBDD;
+    --pink:#C83E2B;
+    --pink-deep:#9F2F24;
+    --peach:#4F7A59;
+    --plum:#292722;
+    --muted:#716D65;
+    --line:#E4DDCF;
+    --gold:#E5A63B;
     box-sizing:border-box;
     padding-top:env(safe-area-inset-top,0px);
     padding-bottom:env(safe-area-inset-bottom,0px);
